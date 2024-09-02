@@ -1,2 +1,2 @@
 # Experience-section
-Internship proofs, TA duty assignments
+Internship proofs, TA duty assignment
